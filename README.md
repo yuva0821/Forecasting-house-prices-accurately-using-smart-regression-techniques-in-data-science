@@ -140,7 +140,7 @@ Evaluation Metrics:
 
 ## 🔗 GitHub Repository
 
-👉 [GitHub Link](https://github.com/Thennarasu0302/Forecasting-house-prices-accurately-using-smart-regression-techniques-in-data-science)
+👉 [GitHub Link](https://github.com/yuva0821/Forecasting-house-prices-accurately-using-smart-regression-techniques-in-data-science.git)
 
 ---
 
@@ -148,7 +148,7 @@ Evaluation Metrics:
 
 ## 📍 Institution Details
 
-- **Student Name:** Thennarasu P
+- **Student Name:** Yuvaraj B
 - **Department:** Computer Science & Engineering  
 - **College:** Sri Ramanujar Engineering College  
 
